@@ -36,6 +36,7 @@ import MetricsService from './metrics/metrics-service';
 import { EVENT_NAMES } from './metrics/metrics-constants';
 
 console.log('Dummy commit');
+console.log('Another dummy commit');
 
 // Set protocol for deeplinking
 if (!cfg().isUnitTest) {
